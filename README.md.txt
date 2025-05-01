@@ -1,2 +1,1 @@
-#Introducción al desarrollo de software:
-Este proyecto tiene como objetivo aprender a usar Git y GitHub.
+#Repositorio ADA-En este repositorio se recopilarán las tareas del curso ADA del período 2025-I
