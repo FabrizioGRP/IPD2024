@@ -7,3 +7,6 @@ TAREA 2 - Subconjunto con suma máxima [Archivos correspondientes]:
    *GeneradorArreglo.java
    *MaxSubconjunto.java
    *ADAtarea2.java
+TAREA 3 - Algoritmo de Ackerman en forma iterativa [Archivos correspondientes]:
+   *ADAtarea3.java
+   *AlgIterativo.java
