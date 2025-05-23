@@ -10,3 +10,6 @@ TAREA 2 - Subconjunto con suma máxima [Archivos correspondientes]:
 TAREA 3 - Algoritmo de Ackerman en forma iterativa [Archivos correspondientes]:
    *ADAtarea3.java
    *AlgIterativo.java
+TAREA 4 - Algoritmo de ordenación por mezcla directa (Merge Sort) [Archivos correspondientes]:
+   *VectorOrd.java
+   *ADAtarea4.java
